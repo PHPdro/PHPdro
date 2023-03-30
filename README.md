@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PHPdro&show_icons=true&theme=radical&count_private=true)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PHPdro&show_icons=true&theme=tokyonight&count_private=true)
 
 <!--
 **PHPdro/PHPdro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

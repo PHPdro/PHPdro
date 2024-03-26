@@ -24,6 +24,7 @@ I'm currently majoring Information Systems at the Federal Institute of Alagoas. 
   <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" style="margin-bottom: 4px;" height="30px">
 </p>
 
+## ⚡ Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phpdro&layout=donut"><p>
   
